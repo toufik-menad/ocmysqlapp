@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+
+.inner.cover {
+        border-radius : 10px;
+        -moz-border-radius : 10px;
+        -webkit-border-radius : 10px;
+    }
